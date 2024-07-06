@@ -1,5 +1,3 @@
-/* Makes bookmarks toolbar appear vertically at the left side of the window */
-
 @-moz-document url(chrome://browser/content/browser.xhtml){
 
   :root:not([inDOMFullscreen]){

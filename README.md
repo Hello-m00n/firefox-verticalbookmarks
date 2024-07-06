@@ -4,19 +4,19 @@
 
 ### How to setup
 
-*Step 1:*
+***Step 1:***
 
 Go to `about:config` and set the preference `toolkit.legacyUserProfileCustomizations.stylesheets` to true.
 
-*Step 2:*
+***Step 2:***
 
 Go to `about:profiles`, `open root folder` and create a folder called "chrome"
 
-*Step 3*
+***Step 3***
 
 Put the `userChrome.css` file in the `chrome` folder
 
-*Step 4*
+***Step 4***
 
 Restart Firefox
 

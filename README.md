@@ -1,6 +1,8 @@
 ## Here is a way to make the firefox bookmarks look like edge and opera's sidebar
 
-### How to use
+<img width="960" alt="Captura de tela 2024-07-05 231022" src="https://github.com/Helena-m00n/firefox-verticalbookmarks/assets/174842731/ed8f2297-2a82-4cb3-83f7-96fe3135a02a">
+
+### How to setup
 
 *Step 1:*
 

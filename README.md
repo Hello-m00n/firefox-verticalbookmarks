@@ -21,3 +21,5 @@ Put the `userChrome.css` file in the `chrome` folder
 Restart Firefox
 
 Thats it :D
+
+#### *Warning! it may not work with complex themes*

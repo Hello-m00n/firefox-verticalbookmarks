@@ -22,4 +22,4 @@ Restart Firefox
 
 Thats it :D
 
-#### *Warning! it may not work with complex themes*
+#### *Warning! it may not work well with complex themes*
